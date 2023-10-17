@@ -65,7 +65,7 @@ python3 -m Royalkifeelings  # Run the bot
 ### Special Credits 💖
 - [chinna'™](https://github.com/dattudd): 
 
-- [𝗥𝗼𝘆𝗮𝗹𝗞𝗶𝗙𝗲𝗲𝗹𝗶𝗻𝗴𝘀 𝟮.𝟬](https://t.me/itschinnoda) `𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹`
+- [chinna 𝟮.𝟬](https://t.me/itschinnoda) `𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹`
 
 - [chinna](https://t.me/itschinnoda) `𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿`[chinna]
 
