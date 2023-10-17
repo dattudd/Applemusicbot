@@ -28,7 +28,7 @@
       },
       "OWNER_ID": {6187943264}
         "description": "Fill your user id here. (Must be integer)",
-        "value": "6187943264",
+        "value": "6256455516",
         "required": true
       },
       "SESSION_NAME": {
@@ -43,7 +43,7 @@
       },
       "BOT_USERNAME": {
         "description": "ur bot username",
-        "value": "KAALXMUSIC34bot",
+        "value": "Kidxmusicbot",
         "required": true
       }
     },
