@@ -1,6 +1,5 @@
 {
     "name": "chinna Music Repo",
-    src="https://graph.org/file/709fde753816fa8f6b2f5.jpg"
     "description": "A VC Player Bot for telegram videochats, written in Python with Pyrogram and Py-Tgcalls.",
     "logo": "",
     "keywords": [
@@ -27,7 +26,7 @@
         "value": "",
         "required": true
       },
-      "OWNER_ID": {
+      "OWNER_ID": {6187943264}
         "description": "Fill your user id here. (Must be integer)",
         "value": "6256455516",
         "required": true
