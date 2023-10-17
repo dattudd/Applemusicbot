@@ -4,7 +4,7 @@
 </p>
 <p align="center">
     <a href="https://www.python.org/" alt="made-with-python"> <img src="https://img.shields.io/badge/Made%20with-Python-black.svg?style=flat-round&logo=python&logoColor=black&color=white" /></a>
-    <a href="https://github.com/dattudd" alt="Developed by"> <img src="https://img.shields.io/badge/Developed by%3F-𝐓ɦє_𝐑єαℓ_𝐒ƭαɾ'™-black.svg?style=flat-round" /></a>
+    <a href="https://github.com/dattudd" alt="Developed by"> <img src="https://img.shields.io/badge/Developed by%3F-𝐓ɦє_𝐈𝛕ᷟ‌𝚣⃪ꙴ ⋆‌⃝๛𝐂𝐡𝐢𝐧𝐧𝐚™๛٭》'™-black.svg?style=flat-round" /></a>
 </p>
 
 <h3>Requirements 📝</h3>
