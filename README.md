@@ -63,7 +63,7 @@ python3 -m Royalkifeelings  # Run the bot
 ```
 
 ### Special Credits 💖
-- [𝗧𝗵𝗲 𝗥𝗲𝗮𝗹 𝗦𝘁𝗮𝗿'™](https://github.com/dattudd): 
+- [chinna'™](https://github.com/dattudd): 
 
 - [𝗥𝗼𝘆𝗮𝗹𝗞𝗶𝗙𝗲𝗲𝗹𝗶𝗻𝗴𝘀 𝟮.𝟬](https://t.me/itschinnoda) `𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹`
 
