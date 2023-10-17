@@ -1,4 +1,4 @@
-<p align="center"><a href="https://t.me/royalkifeelings"><img src="https://graph.org/file/1cf39e632aee473343a9f.jpg"></a></p>
+<p align="center"><a href="https://t.me/royalkifeelings"><img src="https://graph.org/file/709fde753816fa8f6b2f5.jpg"></a></p>
 <p align="center">
     <br><b>YT Music Bot is a telegram bot project that's allow you to play music on telegram voice chat group</b><br>
 </p>
@@ -70,4 +70,4 @@ python3 -m Royalkifeelings  # Run the bot
 - [chinna](https://t.me/itschinnoda) `𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿`[chinn]
 
 ### Support & Updates 🎑
-<a href="https://t.me/royalkifeelings"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/royalkifeelings_12"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://t.me/itschinnoda"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/itschinnoda"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
