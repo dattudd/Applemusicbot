@@ -26,7 +26,7 @@
         "value": "",
         "required": true
       },
-      "OWNER_ID": {6187943264}
+      "OWNER_ID": {
         "description": "Fill your user id here. (Must be integer)",
         "value": "6256455516",
         "required": true
