@@ -67,7 +67,7 @@ python3 -m Royalkifeelings  # Run the bot
 
 - [𝗥𝗼𝘆𝗮𝗹𝗞𝗶𝗙𝗲𝗲𝗹𝗶𝗻𝗴𝘀 𝟮.𝟬](https://t.me/itschinnoda) `𝗢𝘂𝗿 𝗖𝗵𝗮𝗻𝗻𝗲𝗹`
 
-- [chinna](https://t.me/itschinnoda) `𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿`[chinn]
+- [chinna](https://t.me/itschinnoda) `𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿`[chinna]
 
 ### Support & Updates 🎑
 <a href="https://t.me/itschinnoda"><img src="https://img.shields.io/badge/Join-Group%20Support-black.svg?style=for-the-badge&logo=Telegram"></a> <a href="https://t.me/itschinnoda"><img src="https://img.shields.io/badge/Join-Updates%20Channel-black.svg?style=for-the-badge&logo=Telegram"></a>
