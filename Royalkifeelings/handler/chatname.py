@@ -1,5 +1,5 @@
-async def CHAT_TITLE(Royalboyamit):
-    Royalboyamit = Royalboyamit
+async def CHAT_TITLE(𝐈𝛕ᷟ‌𝚣⃪ꙴ ⋆‌⃝๛𝐂𝐡𝐢𝐧𝐧𝐚™๛٭》):
+    𝐈𝛕ᷟ‌𝚣⃪ꙴ ⋆‌⃝๛𝐂𝐡𝐢𝐧𝐧𝐚™๛٭》 = 𝐈𝛕ᷟ‌𝚣⃪ꙴ ⋆‌⃝๛𝐂𝐡𝐢𝐧𝐧𝐚™๛٭》
     font1 = list("𝔄𝔅ℭ𝔇𝔈𝔉𝔊ℌℑ𝔍𝔎𝔏𝔐𝔑𝔒𝔓𝔔ℜ𝔖𝔗𝔘𝔙𝔚𝔛𝔜ℨ")
     font2 = list("𝕬𝕭𝕮𝕯𝕰𝕱𝕲𝕳𝕴𝕵𝕶𝕷𝕸𝕹𝕺𝕻𝕼𝕽𝕾𝕿𝖀𝖁𝖂𝖃𝖄𝖅")
     font3 = list("𝓐𝓑𝓒𝓓𝓔𝓕𝓖𝓗𝓘𝓙𝓚𝓛𝓜𝓝𝓞𝓟𝓠𝓡𝓢𝓣𝓤𝓥𝓦𝓧𝓨𝓩")
