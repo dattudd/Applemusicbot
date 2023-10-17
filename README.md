@@ -54,7 +54,7 @@ pip3 install -U pip
 curl -fssL https://deb.nodesource.com/setup_18.x | sudo -E bash -
 sudo apt-get install -y nodejs
 npm i -g npm
-git clone https://github.com/royalboycoder/YT-Music-Reop# Clone your repo.
+git clone https://github.com/dattudd/Applemusicbot-Reop# Clone your repo.
 cd YT-Music-Repo
 pip3 install --no-cache-dir --upgrade --requirement requirements.txt
 cp example.env .env #Use vim to edit ENVs
